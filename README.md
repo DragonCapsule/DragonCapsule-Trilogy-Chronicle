@@ -1,12 +1,12 @@
 ---
-description: 'authors:  YieldDAO Labs   email:  iamliqiang@gmail.com'
+description: 'authors:  YieldDAO Labs   editor:  iamliqiang@gmail.com'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
 # 龙胶囊三部曲编年史：三部曲の一.《龙胶囊》
 
-## 我们活在真实世界的概率只有十亿分之一
+## editor我们活在真实世界的概率只有十亿分之一
 
 _--埃隆.马斯克_    &#x20;
 
