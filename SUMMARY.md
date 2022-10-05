@@ -102,7 +102,7 @@
 ## 16. 永夜降临（2148） <a href="#di-san-juan.metaverse-ngithmeare-fall" id="di-san-juan.metaverse-ngithmeare-fall"></a>
 
 * [虫洞与女娲（2140）](di-san-juan.metaverse-ngithmeare-fall/chong-dong-yu-nv-wa-2140.md)
-* [数字高边疆的崩溃（2142）](di-san-juan.metaverse-ngithmeare-fall/shu-zi-gao-bian-jiang-de-beng-kui-2142.md)
+* [数字高边疆的崩溃（2142）](di-san-juan.metaverse-ngithmeare-fall/shu-zi-gao-bian-jiang-beng-kui-2142.md)
 * [元宇宙复兴（2145）](di-san-juan.metaverse-ngithmeare-fall/yuan-yu-zhou-fu-xing-2145.md)
 * [静静的风暴（2146）](di-san-juan.metaverse-ngithmeare-fall/jing-jing-de-feng-bao-2146.md)
 * [随机的种子（百万年前）](di-san-juan.metaverse-ngithmeare-fall/sui-ji-de-zhong-zi-bai-wan-nian-qian.md)
