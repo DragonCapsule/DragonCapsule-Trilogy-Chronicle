@@ -2,7 +2,7 @@
 
 * [龙胶囊三部曲编年史](README.md)
 
-## 第一券. 孵化 <a href="#di-yi-juan" id="di-yi-juan"></a>
+## 三部曲の一. 龙胶囊 <a href="#di-yi-juan" id="di-yi-juan"></a>
 
 * [第一卷. 孵化](di-yi-juan/dc-origin.md)
 
