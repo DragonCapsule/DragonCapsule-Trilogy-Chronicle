@@ -108,17 +108,17 @@
 * [随机的种子（百万年前）](di-san-juan.metaverse-ngithmeare-fall/sui-ji-de-zhong-zi-bai-wan-nian-qian.md)
 * [温柔的夜（2148）](di-san-juan.metaverse-ngithmeare-fall/wen-rou-de-ye-2148.md)
 
-## 17. 前夜 <a href="#di-san-juan.metaverse-the-night-befor" id="di-san-juan.metaverse-the-night-befor"></a>
-
-* [前夜（2765）](di-san-juan.metaverse-the-night-befor/qian-ye-2765.md)
-
-## 18. 突破的象限 <a href="#di-san-juan.metaverse-break-neckness" id="di-san-juan.metaverse-break-neckness"></a>
+## 17. 突破的象限 <a href="#di-san-juan.metaverse-break-neckness" id="di-san-juan.metaverse-break-neckness"></a>
 
 * [突破的象限（2845）](di-san-juan.metaverse-break-neckness/tu-po-de-xiang-xian-2845.md)
 
-## 19. 意识的真相 <a href="#di-san-juan.metaverse-mind-truth" id="di-san-juan.metaverse-mind-truth"></a>
+## 18. 意识的真相 <a href="#di-san-juan.metaverse-mind-truth" id="di-san-juan.metaverse-mind-truth"></a>
 
-* [意识的真相（2912）](di-san-juan.metaverse-mind-truth/yi-shi-de-zhen-xiang-2912.md)
+* [意识的真相（2845）](di-san-juan.metaverse-mind-truth/yi-shi-de-zhen-xiang-2845.md)
+
+## 17. 前夜 <a href="#di-san-juan.metaverse-the-night-befor" id="di-san-juan.metaverse-the-night-befor"></a>
+
+* [前夜（2912）](di-san-juan.metaverse-the-night-befor/qian-ye-2912.md)
 
 ## 20. 永恒的黑暗 <a href="#di-san-juan.metaverse-dark-forever" id="di-san-juan.metaverse-dark-forever"></a>
 
