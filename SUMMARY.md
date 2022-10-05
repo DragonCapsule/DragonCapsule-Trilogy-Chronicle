@@ -1,6 +1,6 @@
 # Table of contents
 
-* [龙胶囊三部曲编年史：三部曲の一.《龙胶囊》](README.md)
+* [龙胶囊三部曲编年史](README.md)
 
 ## 第一券. 孵化 <a href="#di-yi-juan" id="di-yi-juan"></a>
 
