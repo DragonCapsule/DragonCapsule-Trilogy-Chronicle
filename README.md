@@ -4,7 +4,7 @@ cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
-# 龙胶囊三部曲编年史：三部曲の一.《龙胶囊》
+# 龙胶囊三部曲编年史
 
 ## 我们活在真实世界的概率只有十亿分之一
 
@@ -36,6 +36,14 @@ __
 * **2. 《穹顶家园》**
 * **3. 《最终幻想》** ( ...或熵灭）
 
+
+
+
+
+### .English Version（英文版）
+
+[**`https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/`**](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)**``**
+
 **``**
 
 ### **`.官方媒体链接`**
@@ -43,4 +51,6 @@ __
 1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
 2\. Twitter : [https://twitter.com/yielddaoio](https://twitter.com/yielddaoio)&#x20;
+
+
 
