@@ -45,7 +45,7 @@
 * [再起波澜（2045）](5.-tie-mu-zai-qi/zai-qi-bo-lan-2045.md)
 * [日本漂流（2049）](5.-tie-mu-zai-qi/ri-ben-piao-liu-2049.md)
 
-## 第二券. 混沌 <a href="#di-er-juan" id="di-er-juan"></a>
+## 三部曲の一. 龙胶囊 <a href="#di-er-juan" id="di-er-juan"></a>
 
 * [第二卷. 混沌](di-er-juan/dc-origin.md)
 
@@ -83,7 +83,7 @@
 
 * [黑与白（2095）](di-er-juan.white-and-black/hei-yu-bai-2095.md)
 
-## 第三券. 暗黑 <a href="#di-san-juan" id="di-san-juan"></a>
+## 三部曲の一. 龙胶囊 <a href="#di-san-juan" id="di-san-juan"></a>
 
 * [第三卷. 暗黑](di-san-juan/dc-origin.md)
 
