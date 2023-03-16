@@ -52,7 +52,7 @@ __
 
 1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
-2\. Twitter : [https://twitter.com/yielddaoio](https://twitter.com/yielddaoio)&#x20;
+2\. Twitter : [https://twitter.com/](https://twitter.com/yielddaoio)[www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
 
 
 
