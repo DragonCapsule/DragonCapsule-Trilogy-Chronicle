@@ -4,13 +4,21 @@ cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
-# 龙胶囊三部曲编年史
+# 龙胶囊三部曲编年史-前传
 
-## 我们活在真实世界的概率只有十亿分之一
+_<mark style="color:orange;">**Click to read the English version**</mark>_ -->--> [_**"Chronicle of DragonCapsule Trilogy - Prequel"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
 
-_--埃隆.马斯克_    &#x20;
 
-__
+
+{% embed url="https://youtu.be/u-RB1jOhrT4" %}
+
+
+
+> ## 我们活在真实世界的概率只有十亿分之一
+>
+> _**--埃隆.马斯克**_    &#x20;
+
+
 
 <figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +26,7 @@ __
 
 “龙胶囊” 是一个多维宇宙文明与地球的传奇故事构成的庞大元宇宙科幻故事，这是第一部DAO组织驱动、多人协同创作，跨越地球时空和历史的科幻作品。
 
-****
+
 
 ### **.声明**
 
@@ -42,17 +50,17 @@ __
 
 <figure><img src=".gitbook/assets/dark-universe.jpeg" alt=""><figcaption></figcaption></figure>
 
-### .English Version（英文版）
 
-[**`https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/`**](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)**``**
-
-**``**
 
 ### **`.官方媒体链接`**
 
 1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
 2\. Twitter : [https://twitter.com/](https://twitter.com/yielddaoio)[www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
+
+### . English Version
+
+[**`https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/`**](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
 
 
 
