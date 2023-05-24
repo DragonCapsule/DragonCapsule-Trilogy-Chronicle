@@ -1,6 +1,6 @@
 # 玛雅文明
 
-****
+
 
 ![](../.gitbook/assets/4.jpeg)
 
