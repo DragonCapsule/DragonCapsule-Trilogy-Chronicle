@@ -6,7 +6,7 @@ coverY: 0
 
 # 龙胶囊三部曲-前传编年史
 
-_<mark style="color:orange;">**Click to read the English version**</mark>_ -->--> [_**"DragonCapsule Trilogy - Prequel Chronicle"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
+_<mark style="color:orange;">**Click to read the English version**</mark>_ -->--> [_**"DragonCapsule Trilogy - Prequel Chronicles"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
 
 
 
