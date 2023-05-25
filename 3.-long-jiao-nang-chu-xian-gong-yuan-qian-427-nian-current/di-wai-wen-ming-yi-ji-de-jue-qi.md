@@ -46,7 +46,4 @@
 
 一场史无前例的地球文明进化风暴，已悄然拉开了帷幕......
 
-
-
-![](<../.gitbook/assets/截屏2022-02-05 下午5.46.17.png>)
-
+<figure><img src="../.gitbook/assets/headofgolf copy.jpg" alt=""><figcaption></figcaption></figure>
