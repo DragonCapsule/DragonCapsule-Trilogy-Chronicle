@@ -1,12 +1,12 @@
 ---
-description: 'authors:  YieldDAO Labs   editor:  iamliqiang@gmail.com'
+description: 'authors:  Yielddao labs  editor:  iamliqiang@gmail.com'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
 # 龙胶囊三部曲-前传编年史
 
-_<mark style="color:orange;">**Click to read the English version**</mark>_ -->--> [_**"DragonCapsule Trilogy - Prequel Chronicles"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
+_<mark style="color:orange;">**English version**</mark>_ -->-->[ _**"Prequel Chronicles of DragonCapsule Trilogy"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
 
 
 
