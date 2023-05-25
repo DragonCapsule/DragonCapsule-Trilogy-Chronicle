@@ -58,6 +58,8 @@ _<mark style="color:orange;">**Click to read the English version**</mark>_ -->--
 
 2\. Twitter : [https://twitter.com/](https://twitter.com/yielddaoio)[www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
 
+3\. OpenSea : [https://opensea.io/collection/dragoncapsule](https://opensea.io/collection/dragoncapsule)
+
 ### . English Version
 
 [**`https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/`**](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
