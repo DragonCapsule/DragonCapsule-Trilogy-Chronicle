@@ -65,7 +65,7 @@
 * [特洛伊计划](di-er-juan.zi-yuan-fen-bu/te-luo-yi-ji-hua.md)
 * [封神榜计划](di-er-juan.zi-yuan-fen-bu/feng-shen-bang-ji-hua.md)
 * [喀秋莎计划](di-er-juan.zi-yuan-fen-bu/ka-qiu-suo-ji-hua.md)
-* [Cubeman](di-er-juan.zi-yuan-fen-bu/heros.md)
+* [驭者](di-er-juan.zi-yuan-fen-bu/yu-zhe.md)
 
 ## 9. 天堂阴影（2035） <a href="#di-er-juan.tian-tang-yin-ying" id="di-er-juan.tian-tang-yin-ying"></a>
 
