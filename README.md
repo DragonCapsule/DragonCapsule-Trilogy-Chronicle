@@ -1,5 +1,5 @@
 ---
-description: 'authors:  Yielddao labs  editor:  iamliqiang@gmail.com'
+description: 'authors:  Nakamoto  editor: MaxGravity'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
