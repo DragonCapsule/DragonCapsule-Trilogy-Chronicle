@@ -62,7 +62,7 @@ _<mark style="color:orange;">**English version**</mark>_ -->-->[ _**"Prequel Chr
 
 ### **`.NFT市场`**
 
-OpenSea : [https://opensea.io/collection/dragoncapsule](https://opensea.io/collection/dragoncapsule)
+OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.io/collection/dragoncapsule)
 
 
 
