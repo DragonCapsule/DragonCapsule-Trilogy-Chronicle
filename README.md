@@ -74,3 +74,9 @@ English Version：[https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/]
 
 
 
+### **`.Japaness Version（`**日本語版**`）`**
+
+日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/nokapuseru/</mark>](https://dragoncapsule.gitbook.io/nokapuseru/)
+
+
+
