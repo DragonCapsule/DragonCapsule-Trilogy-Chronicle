@@ -1,16 +1,10 @@
 ---
-description: 'authors:  Nakamoto  editor: MaxGravity'
+description: 'Authors:  Nakamoto,  Editor: MaxGravity'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
 # 龙胶囊-前传编年史
-
-_<mark style="color:orange;">**English version**</mark>_ -->-->[ _**"Prequel Chronicles of DragonCapsule"**_](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
-
-_<mark style="color:yellow;">**日本語版 ->->**</mark>_[_<mark style="color:yellow;">「</mark><mark style="color:yellow;">**龍のカプセル-前日譚年代記 」**</mark>_](https://dragoncapsule.gitbook.io/nokapuseru/)
-
-
 
 {% embed url="https://youtu.be/u-RB1jOhrT4" %}
 
