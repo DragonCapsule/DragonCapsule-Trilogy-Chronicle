@@ -90,6 +90,7 @@
 ## 13. 元宇宙的繁盛 <a href="#di-san-juan.metaerver-grow" id="di-san-juan.metaerver-grow"></a>
 
 * [元宇宙的繁盛（2100）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-fan-sheng-2100.md)
+* [虚拟经济的崛起（2009\~2109）](di-san-juan.metaerver-grow/xu-ni-jing-ji-de-jue-qi-20092109.md)
 
 ## 14. 时光机 <a href="#di-san-juan.metaverse-timemechine" id="di-san-juan.metaverse-timemechine"></a>
 
