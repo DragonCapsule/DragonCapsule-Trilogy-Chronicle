@@ -1,6 +1,6 @@
 ---
 description: 'Authors:  Nakamoto,  Editor: MaxGravity'
-cover: .gitbook/assets/1.jpeg
+cover: .gitbook/assets/1 (1).jpeg
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ coverY: 0
 
 
 
-<figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### .前言
 
