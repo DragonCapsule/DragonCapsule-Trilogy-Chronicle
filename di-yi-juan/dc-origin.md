@@ -24,7 +24,7 @@ coverY: 0
 
 ### 龙胶囊维基百科-Wiki <a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
 
-* [_**龙胶囊中文维基百科**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/2.-long-jiao-nang-zhong-wen-wei-ji-bai-ke)
-* [_**DragonCapsule En Wiki**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/1.-dragoncapsule-en-wiki)
+* [_**龙胶囊种群**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/2.-long-jiao-nang-zhong-wen-wei-ji-bai-ke/ii.-long-jiao-nang-zhong-qun)
+* [_**龙胶囊档案**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/2.-long-jiao-nang-zhong-wen-wei-ji-bai-ke/iii.-long-jiao-nang-dang-an)
 
 ### &#x20;<a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
