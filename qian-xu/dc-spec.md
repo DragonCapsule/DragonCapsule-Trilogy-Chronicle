@@ -36,7 +36,7 @@
 \
 
 
-* Create by @YieldDAO Labs, All Rights Reserved.
+
 
 
 
