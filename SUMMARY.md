@@ -6,7 +6,7 @@
 
 * [第一卷. 孵化](di-yi-juan/dc-origin.md)
 
-## 0. 前序 <a href="#qian-xu" id="qian-xu"></a>
+## 0. 龙胶囊维基 <a href="#qian-xu" id="qian-xu"></a>
 
 * [龙胶囊种群](qian-xu/dc-species.md)
 * [龙胶囊档案](qian-xu/dc-spec.md)
