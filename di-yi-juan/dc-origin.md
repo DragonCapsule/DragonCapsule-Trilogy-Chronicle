@@ -21,3 +21,10 @@ coverY: 0
 ```
 {% endcode %}
 {% endhint %}
+
+### 龙胶囊维基百科-Wiki <a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
+
+* [_**龙胶囊中文维基百科**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/2.-long-jiao-nang-zhong-wen-wei-ji-bai-ke)
+* [_**DragonCapsule En Wiki**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/1.-dragoncapsule-en-wiki)
+
+### &#x20;<a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
