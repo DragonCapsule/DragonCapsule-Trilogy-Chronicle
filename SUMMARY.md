@@ -87,7 +87,7 @@
 
 * [第三卷. 暗黑](di-san-juan/dc-origin.md)
 
-## 13. 元宇宙的繁盛 <a href="#di-san-juan.metaerver-grow" id="di-san-juan.metaerver-grow"></a>
+## 13. 元宇宙的繁盛- AI+Crypto <a href="#di-san-juan.metaerver-grow" id="di-san-juan.metaerver-grow"></a>
 
 * [元宇宙的繁盛（2100）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-fan-sheng-2100.md)
 * [加密经济的崛起（2009\~2109）](di-san-juan.metaerver-grow/jia-mi-jing-ji-de-jue-qi-20092109.md)
