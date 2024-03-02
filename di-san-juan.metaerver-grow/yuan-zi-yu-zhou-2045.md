@@ -1,3 +1,23 @@
+---
+description: 七重天-SEVEN FOLD
+cover: ../.gitbook/assets/3.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 原子宇宙- 七重天 （2045）
 
 **“ 原子宇宙 - AtomVerse ” ，恰如其名，这是一个解构到原子的暗黑元宇宙。**
@@ -32,15 +52,13 @@
 
 ### King Arthur 的烦恼
 
-大巫师并不知道 Arthur 的模样，每一次Arthur 的出现，脸都会笼罩在一片流动黑雾之间 ，她并不在乎他的样子，只要感受到 King Arthur 喉咙发出的低频数字颤动，就会觉得有一种安心与潮湿的温暖...
+大巫师 **Xeno** 并不知道 Arthur 的模样，每一次Arthur 的出现，脸都会笼罩在一片流动黑雾之间 ，她并不在乎他的样子，只要感受到 King Arthur 喉咙发出的低频数字颤动，就会觉得有一种安心与潮湿的温暖...
 
-大巫师很满意自己, 作为人天里的一名向导，她喜欢一切都有次序，虽然这可能只是她喜欢的次序，也许 Arthur 喜欢她的样子，不然为什么第一次接触，他就为她创造的她的数字化身（Avatar），虽然这个化身也是她的网络画作之一。
-
-
+**Xeno** 很迷恋自己的数字化身, 作为人天里的一名巫师，她喜欢一切都有次序，虽然这可能只是她喜欢的次序，也许 Arthur 喜欢她的样子，要不然为什么第一次接触，他就为她创造了她的数字化身（Avatar），虽然这个电子形象也是她的网络画作之一。
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/xen copy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xen copy.jpg" alt=""><figcaption><p>大巫师-Xeno  </p></figcaption></figure>
 
 </div>
 
@@ -51,4 +69,6 @@
 亚瑟星球，原子宇宙里的人类天堂； 这里是高度先进的人类友好文明，技术和社会结构允许人类在其中和平地生活，甚至可能提供机会让你超越人类局限，向更高的存在进化...
 
 
+
+_注： Xeno 形象来自 xenotrip，作为 DragonCapsule 创作伙伴，向她的精彩作品致敬_
 
