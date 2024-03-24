@@ -1,5 +1,5 @@
 ---
-description: 'Authors:  Nakamoto,  Editor: MaxGravity'
+description: 'authors: matter，editor: nakamoto'
 cover: .gitbook/assets/1 (1).jpeg
 coverY: 0
 ---
@@ -48,17 +48,9 @@ coverY: 0
 
 
 
-### **`.官方媒体链接`**
+### **`.Official Website`**
 
-1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
-
-2\. Twitter : [https://twitter.com/](https://twitter.com/yielddaoio)[www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
-
-
-
-### **`.NFT市场`**
-
-OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.io/collection/dragoncapsule)
+[https://www.dragoncapsule.xyz](https://www.dragoncapsule.xyz)
 
 
 
