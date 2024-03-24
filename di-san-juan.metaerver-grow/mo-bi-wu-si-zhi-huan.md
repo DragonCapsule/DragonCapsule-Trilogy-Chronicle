@@ -1,6 +1,20 @@
 ---
-cover: ../.gitbook/assets/2 (2).jpeg
+cover: ../.gitbook/assets/atom1.jpeg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 莫比乌斯之环
