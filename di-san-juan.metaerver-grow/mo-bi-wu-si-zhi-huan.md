@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/2 (2).jpeg
+coverY: 0
+---
+
 # 莫比乌斯之环
 
 Arthur 对**智能**有一种本能的执念，对智能的定义本身也进行了长久的思考。
