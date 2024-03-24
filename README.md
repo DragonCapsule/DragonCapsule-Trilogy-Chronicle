@@ -48,21 +48,17 @@ coverY: 0
 
 
 
-### **`.Official Website`**
+### **`.网站（Website）`**
 
 [https://www.dragoncapsule.xyz](https://www.dragoncapsule.xyz)
 
-
-
 ### . English Version
 
-English Version：[https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/](https://dragoncapsule.gitbook.io/chronicle-of-dragoncapsule/)
-
-
+English Version：[https://dragoncapsule.gitbook.io/history](https://dragoncapsule.gitbook.io/history)
 
 ### **`.Japaness Version（`**日本語版**`）`**
 
-日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/nokapuseru/</mark>](https://dragoncapsule.gitbook.io/nokapuseru/)
+日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/history-jp</mark>](https://dragoncapsule.gitbook.io/history-jp)
 
 
 
