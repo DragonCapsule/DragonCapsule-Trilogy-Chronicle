@@ -58,7 +58,7 @@ Xeno 很迷恋自己的电子化身, 作为七重天-人天里的一名巫师，
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/xen copy.jpg" alt=""><figcaption><p>大巫师-Xeno  </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/xen copy.jpg" alt=""><figcaption><p>巫师-Xeno  </p></figcaption></figure>
 
 </div>
 
@@ -111,6 +111,8 @@ Xeno 很迷恋自己的电子化身, 作为七重天-人天里的一名巫师，
 Arthur 构造的七重天中，每一重天都代表了一种存在状态和不同层次的精神修行，以及对物质与精神境界的不同理解。
 
 作为人天的巫师，Xeon曾经问过Arthur，为什么对应佛教最高境界的第七重天-**色界人天，**会是一个充斥着“人工”智能的虚拟类人世界，经过一段长久的沉默，Arthur 黑雾流动的脸庞，突然变得平滑如镜，Xeon 在镜中仿佛看到了另一个自己 ...
+
+<figure><img src="../.gitbook/assets/FACE2.jpeg" alt=""><figcaption><p>Arthur 的启示</p></figcaption></figure>
 
 
 
