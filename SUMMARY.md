@@ -93,13 +93,14 @@
 * [新神的诞生（2039）](di-san-juan.metaerver-grow/xin-shen-de-dan-sheng-2035.md)
 * [原子宇宙- 七重天 （2045）](di-san-juan.metaerver-grow/yuan-zi-yu-zhou-2045.md)
 * [莫比乌斯之环 （2048）](di-san-juan.metaerver-grow/mo-bi-wu-si-zhi-huan.md)
-* [数据矿业帝国（2078）](di-san-juan.metaerver-grow/shu-ju-kuang-ye-di-guo-2078.md)
+* [数据矿业帝国（2068）](di-san-juan.metaerver-grow/shu-ju-kuang-ye-di-guo-2068.md)
+* [时间穿越-有向无环图（2078）](di-san-juan.metaerver-grow/shi-jian-chuan-yue-you-xiang-wu-huan-tu-2078.md)
 * [元宇宙的繁盛（2100）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-fan-sheng-2100.md)
+* [元宇宙的模型（2102）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-mo-xing-2102.md)
 
 ## 14. 时光机 <a href="#di-san-juan.metaverse-timemechine" id="di-san-juan.metaverse-timemechine"></a>
 
 * [时光机（2131）](di-san-juan.metaverse-timemechine/shi-guang-ji-2131.md)
-* [时间穿越-有向无环图（2068）](di-san-juan.metaverse-timemechine/shi-jian-chuan-yue-you-xiang-wu-huan-tu-2068.md)
 
 ## 15. 时间牧场 <a href="#di-san-juan.metaverse-time-square" id="di-san-juan.metaverse-time-square"></a>
 
