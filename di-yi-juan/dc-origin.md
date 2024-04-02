@@ -6,6 +6,3 @@ coverY: 0
 
 # 第一卷. 孵化
 
-### &#x20;<a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
-
-### &#x20;<a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
