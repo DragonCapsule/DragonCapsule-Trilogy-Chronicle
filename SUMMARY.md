@@ -2,7 +2,7 @@
 
 * [龙胶囊三部曲-前传编年史](README.md)
 
-## 龙胶囊三部曲の卷壹 <a href="#di-yi-juan" id="di-yi-juan"></a>
+## 三部曲の第I部.龙胶囊 <a href="#di-yi-juan" id="di-yi-juan"></a>
 
 * [第一卷. 孵化](di-yi-juan/dc-origin.md)
 
@@ -40,7 +40,7 @@
 * [再起波澜（2045）](5.-tie-mu-zai-qi/zai-qi-bo-lan-2045.md)
 * [日本漂流（2049）](5.-tie-mu-zai-qi/ri-ben-piao-liu-2049.md)
 
-## 龙胶囊三部曲の卷贰 <a href="#di-er-juan" id="di-er-juan"></a>
+## 三部曲の第I部.龙胶囊 <a href="#di-er-juan" id="di-er-juan"></a>
 
 * [第二卷. 混沌](di-er-juan/dc-origin.md)
 
@@ -78,7 +78,7 @@
 
 * [黑与白（2095）](di-er-juan.white-and-black/hei-yu-bai-2095.md)
 
-## 龙胶囊三部曲の卷叁 <a href="#di-san-juan" id="di-san-juan"></a>
+## 三部曲の第I部.龙胶囊 <a href="#di-san-juan" id="di-san-juan"></a>
 
 * [第三卷. 暗黑](di-san-juan/dc-origin.md)
 
