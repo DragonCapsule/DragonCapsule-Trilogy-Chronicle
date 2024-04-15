@@ -88,7 +88,7 @@
 * [新神的诞生（2039）](di-san-juan.metaerver-grow/xin-shen-de-dan-sheng-2035.md)
 * [原子宇宙- 七重天 （2045）](di-san-juan.metaerver-grow/yuan-zi-yu-zhou-2045.md)
 * [莫比乌斯之环 （2048）](di-san-juan.metaerver-grow/mo-bi-wu-si-zhi-huan.md)
-* [数据矿业帝国（2068）](di-san-juan.metaerver-grow/shu-ju-kuang-ye-di-guo-2068.md)
+* [数据矿业（2068）](di-san-juan.metaerver-grow/shu-ju-kuang-ye-2068.md)
 * [时间穿越-拉普拉斯妖（2078）](di-san-juan.metaerver-grow/shi-jian-chuan-yue-la-pu-la-si-yao-2078.md)
 * [元宇宙的繁盛（2100）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-fan-sheng-2100.md)
 * [元宇宙的模型（2102）](di-san-juan.metaerver-grow/yuan-yu-zhou-de-mo-xing-2102.md)
