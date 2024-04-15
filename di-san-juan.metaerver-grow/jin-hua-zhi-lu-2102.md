@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/atomverse.jpeg
+coverY: 0
+---
+
 # 进化之路（2102）
 
 虚拟宇宙与AI的飞速发展，逐渐形成了元宇宙两大主要构建路径：：
@@ -43,8 +48,6 @@
 
 
 
-
-
 ### 模型宇宙的构建
 
 Arthur 用于自演化宇宙建模的最早基础规则，来自欧几里得 《几何原本》。
@@ -59,7 +62,11 @@ Arthur 非常尊重 _“用凡人之眼，洞悉了宇宙的秘密”_  的德�
 1. **现象（Phenomenon - 阳）**：此部分是物质表象部分，即宇宙通过基本粒子反射出的宏观&微观表现，现象可以被观察认知。
 2. **本体（Noumenon     -  阴）**：此部分是物质本体部分，即宇宙的几何结构与基本粒子构成本体，本体无法直接认知。
 
+<div align="left">
 
+<figure><img src="../.gitbook/assets/YY.jpg" alt=""><figcaption><p>二元宇宙- 阴与阳</p></figcaption></figure>
+
+</div>
 
 上个世纪 2010年，瑞典天才游戏设计师马库斯.佩尔松（Markus Persson）设计出了经典游戏**《我的世界》**_（MineCraft）_,  Arthur 同样也从 **《我的世界》** 网络游戏获得不少乐趣。
 
