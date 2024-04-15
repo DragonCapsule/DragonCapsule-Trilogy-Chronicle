@@ -64,7 +64,7 @@ Arthur 非常尊重 _“用凡人之眼，洞悉了宇宙的秘密”_  的德�
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/YY.jpg" alt=""><figcaption><p>二元宇宙- 阴与阳</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/taiji2.jpg" alt=""><figcaption><p>二元宇宙- 阴与阳-量子纠缠</p></figcaption></figure>
 
 </div>
 
