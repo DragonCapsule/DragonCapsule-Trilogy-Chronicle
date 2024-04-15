@@ -46,7 +46,7 @@ layout:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/eyescan.jpeg" alt=""><figcaption><p>RWDN 人类生物特征全息扫描</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/eyescaner1.jpg" alt=""><figcaption><p>RWDN 人类生物特征全息扫描</p></figcaption></figure>
 
 </div>
 
