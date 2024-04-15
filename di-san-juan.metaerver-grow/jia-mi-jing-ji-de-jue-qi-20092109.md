@@ -74,11 +74,13 @@ Bitcoin 区块链系统已经成为全球人工智能网络的金融结算层基
 
 ## AI 数字生命
 
-<figure><img src="../.gitbook/assets/GG_fmgla4AAaAqM.png" alt=""><figcaption><p>英国作家乔治·奥维尔（George Orwell）1949年写出传世经典，政治荒诞科幻小说《1984》</p></figcaption></figure>
-
 在全真元宇宙经济体系中，Bitcoin 为首的彩色比特币 与 Ethereum 为首的衍生Token 成为了虚拟数字空间的超主权货币，推动着全真元宇宙背后的经济引擎无休止的轰鸣...
 
+<div align="left">
 
+<figure><img src="../.gitbook/assets/A4.jpg" alt=""><figcaption><p>英国作家乔治·奥维尔（George Orwell）1949年写出传世经典，政治荒诞科幻小说《1984》</p></figcaption></figure>
+
+</div>
 
 2085年，人们大量进入元宇宙虚拟空间工作、娱乐，甚至进行电子性爱； 除了生物基因工程、核聚变能源、量子空间计算、太空探索、超人工智能等相关产业，真实世界的经济活动相对增长率逐年下降， 元宇宙的相对GDP在跳跃式上升，人类正在进行全面进入元宇宙数字化金融时代，虚拟经济的产值已经历史性的超越了实体经济产业。
 
