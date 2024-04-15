@@ -112,9 +112,11 @@ Arthur 构造的七重天中，每一重天都代表了一种存在状态和不�
 
 作为人天的巫师，Xeno曾经问过Arthur，为什么对应佛教最高境界的第七重天-**色界人天，**会是一个充斥着“人工”智能的虚拟类人世界，经过一段长久的沉默，Arthur 黑雾流动的脸庞，突然变得平滑如镜，Xeno在镜中仿佛看到了另一个自己 ...
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/FACE2.jpeg" alt=""><figcaption><p>Arthur 的启示</p></figcaption></figure>
 
-
+</div>
 
 ## Arthur 的波动
 

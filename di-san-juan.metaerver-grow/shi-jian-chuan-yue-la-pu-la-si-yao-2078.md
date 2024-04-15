@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/all-seeing-eye.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 时间穿越-拉普拉斯妖（2078）
 
 _**“时间真实存在么，时间到底是什么 ......？”**_   &#x20;
@@ -20,7 +39,13 @@ _关于时间的思考，永远不会停止，这既是一个最难解释的科�
 
 
 
-在原子宇宙的早期原型设计中，“时间” 概念实际上作为 “**事件序列”** 被定义引入，它本质上是事件发生的先后序列。
+在原子宇宙的早期原型设计中，“**时间**” 概念实际上作为 “**事件序列”** 被定义引入，它本质上是事件发生的先后序列。
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/time.jpeg" alt=""><figcaption><p><strong>事件序列</strong>即是<strong>时间</strong></p></figcaption></figure>
+
+</div>
 
 
 
@@ -50,7 +75,7 @@ _关于时间的思考，永远不会停止，这既是一个最难解释的科�
 
 为了时间旅行， Arthur 创造了“**Laplace's Demon**”，拉普拉斯妖是一架神奇到近乎妖神的机器，它被设计为知晓一切，并据此来计算一切，对它而言，世界就像一个巨型时钟，过于与未来均早就注定；它以计算为食，一刻不停的计算与验证过去与未来的一切。
 
-
+<figure><img src="../.gitbook/assets/all-seeing-eye.jpeg" alt=""><figcaption><p><strong>拉普拉斯妖-全视之眼</strong></p></figcaption></figure>
 
 每当进行一次**前向拉普拉斯妖跳跃**，都会引起巨大的原子宇宙震荡，因为进入未来会改变现在，改变现在会影响未来，这会引发巨大的迭代计算，为了实现已知世界与未知世界状态的平滑匹配与无缝衔接。
 
@@ -74,9 +99,11 @@ _关于时间的思考，永远不会停止，这既是一个最难解释的科�
 
 原子宇宙分叉出无穷的 **“平行宇宙”**，就像一张无边无际的巨型 **“有向无环图（DAG）”**，在多维时空中无限演进、延伸......
 
+<div align="left">
 
+<figure><img src="../.gitbook/assets/DAG1.jpg" alt=""><figcaption><p><strong>无穷平行宇宙拓扑-有向无环图</strong></p></figcaption></figure>
 
-
+</div>
 
 _**注：**有向无环图 ( DAG ) ：在图论中，如果一个有向图从任意顶点出发无法经过若干条边回到该点，则这个图是一个有向无环图。_
 

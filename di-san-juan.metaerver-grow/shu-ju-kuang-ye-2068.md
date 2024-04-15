@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/martrix.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 数据矿业（2068）
 
 时间进入21世纪的下半叶，“**真实数据**”已经成为真正的金矿。
@@ -44,8 +63,6 @@ RWDN 综合了了AI/人类身份验证与识别、分布式永存数据网络、
 
 
 与此同时，在公域元宇宙和暗黑元宇宙，数据海盗大行其道，地下数据黑市的交易主力逐渐变成了这些数据贩子。数据海盗一般具有强大的技术背景和算力资源，往往可以在第一时间找到 RWDN 代表的人类生物特征全息扫描技术漏洞，利用各种突破常规的方式，盗采人类数据，盗取人类身份进行非法买卖，人类数据地下产业与 RWDN 网络发展一起蒸蒸日上，就像黑夜与白天，占据着人类社会AI产业的光明与黑暗面。
-
-
 
 
 
