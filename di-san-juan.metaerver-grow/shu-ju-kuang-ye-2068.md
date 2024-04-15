@@ -30,7 +30,11 @@ layout:
 
 每个国家都要拿出自己的数据(文化、历史、常识、社会智慧等)去制造自己的主权AI， **人工智能成为驱动经济变革的重要力量**，这一切的背后，是**主权真实数据**的竞争。
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/handtohand.jpeg" alt=""><figcaption><p>AO 奠定了超主权AI诞生的基础</p></figcaption></figure>
+
+</div>
 
 2024 年，AI奇点出现的同时，Sam 创建了 AO 环球数据网络 ( AI-Oriented Global Data Network )，这是一个吞噬所有人类数据的永存网络，并在这个永恒数据网络上部署了革命性的去中心化的超级并行计算框架AOC 1.0 ，成为了孕育人类 **超主权AI** 诞生的摇篮。
 
