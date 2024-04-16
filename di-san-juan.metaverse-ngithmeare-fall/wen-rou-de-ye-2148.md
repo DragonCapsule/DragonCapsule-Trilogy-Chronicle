@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/her.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 温柔的夜（2148）
 
 南极洲，永恒的冰雪大陆，面积约为1300万平方公里，永久封冻的冰原之下，覆盖着2000\~4000米厚的巨型冰盖。
@@ -14,7 +33,11 @@
 
 东方站4000米厚的冰层之下，隐藏着世界最大的淡水湖泊- 沃斯托克湖（Lake Vostok），面积15,690平方公里，与安大略湖大小相当，这里平均水温为−3℃，在厚重冰层的巨大压力下，湖水仍以液态存在，有极高的氮、氧气浓度含量。（氧气浓度为一般淡水湖泊的 5000%）
 
+<div align="left">
 
+<figure><img src="../.gitbook/assets/sumeri1.jpg" alt=""><figcaption><p>十艘巨大的球状潜艇自主悬浮游弋</p></figcaption></figure>
+
+</div>
 
 在这片永恒黑暗的海洋世界中，依然有少许光亮存在，那是十艘巨大的球状潜艇，在漆黑的沃斯托克湖中自主悬浮游弋，闪烁的航标灯在黑暗中格外显眼，不断有奇异的生物在灯光前掠过，巨大的柔性悬浮线缆连接着潜艇，并通向冰面。
 
