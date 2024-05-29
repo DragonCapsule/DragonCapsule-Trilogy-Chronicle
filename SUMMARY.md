@@ -20,7 +20,7 @@
 
 * [亚特兰蒂斯](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/ya-te-lan-di-si.md)
 * [玛雅文明](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/ma-ya-wen-ming.md)
-* [波斯湾魅影](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/bo-si-wan-mei-ying.md)
+* [波湾魅影](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/bo-wan-mei-ying.md)
 * [地外文明遗迹的崛起](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/di-wai-wen-ming-yi-ji-de-jue-qi.md)
 
 ## 4. 公元1964
