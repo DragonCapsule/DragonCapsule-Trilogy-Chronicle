@@ -16,12 +16,12 @@
 * [神州陆沉](2.-shu-shan-qian-chuan-gong-yuan-309-nian/shen-zhou-lu-chen.md)
 * [蜀山初现](2.-shu-shan-qian-chuan-gong-yuan-309-nian/shu-shan-chu-xian.md)
 
-## 3.龙胶囊出现（公元前427年—Current）
+## 3.龙胶囊的复苏（公元前427年—Current）
 
-* [亚特兰蒂斯](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/ya-te-lan-di-si.md)
-* [玛雅文明](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/ma-ya-wen-ming.md)
-* [波湾魅影](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/bo-wan-mei-ying.md)
-* [地外文明遗迹的崛起](3.-long-jiao-nang-chu-xian-gong-yuan-qian-427-nian-current/di-wai-wen-ming-yi-ji-de-jue-qi.md)
+* [亚特兰蒂斯](3.-long-jiao-nang-de-fu-su-gong-yuan-qian-427-nian-current/ya-te-lan-di-si.md)
+* [玛雅文明](3.-long-jiao-nang-de-fu-su-gong-yuan-qian-427-nian-current/ma-ya-wen-ming.md)
+* [波湾魅影](3.-long-jiao-nang-de-fu-su-gong-yuan-qian-427-nian-current/bo-wan-mei-ying.md)
+* [地外文明遗迹的崛起](3.-long-jiao-nang-de-fu-su-gong-yuan-qian-427-nian-current/di-wai-wen-ming-yi-ji-de-jue-qi.md)
 
 ## 4. 公元1964
 
