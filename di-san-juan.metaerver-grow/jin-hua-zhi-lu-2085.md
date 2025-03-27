@@ -62,13 +62,9 @@ Arthur 非常尊重 _“用凡人之眼，洞悉了宇宙的秘密”_  的德�
 1. **现象（Phenomenon - 阳）**：此部分是物质表象部分，即宇宙通过基本粒子反射出的宏观&微观表现，现象可以被观察认知。
 2. **本体（Noumenon     -  阴）**：此部分是物质本体部分，即宇宙的几何结构与基本粒子构成本体，本体无法直接认知。
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/taiji2.jpg" alt=""><figcaption><p>二元宇宙- 阴与阳-量子纠缠</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/taiji2.jpg" alt=""><figcaption><p>二元宇宙- 阴与阳-量子纠缠</p></figcaption></figure>
-
-</div>
-
-上个世纪 2010年，瑞典天才游戏设计师马库斯.佩尔松（Markus Persson）设计出了经典游戏**《我的世界》**_（MineCraft）_,  Arthur 同样也从 **《我的世界》** 网络游戏获得不少乐趣。
+上个世纪 2010年，瑞典天才游戏设计师马库斯.佩尔松（Markus Persson）设计出了经典游&#x620F;**《我的世界》**_（MineCraft）_,  Arthur 同样也从 **《我的世界》** 网络游戏获得不少乐趣。
 
 Arthur 据此将虚拟世界设计为用 _**5种基本虚拟粒子**_ 构建而成，虽然这五种基本虚拟元素是 Arthur 从哲学和抽象的角度构造，但这五元基本“粒子”与现实世界物理学概念均紧密关联，并可以轻松映射到现代物理学理论中的实体或概念：
 

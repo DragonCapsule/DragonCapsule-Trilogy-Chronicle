@@ -71,7 +71,7 @@
 
 白眉注意到这抹紫色，慢慢伸手过去触摸。荧光之中，浮现黑色方块轮廓。
 
-![紫色荧光生物诱惑](../.gitbook/assets/maxresdefault.jpeg)
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="368"><figcaption><p>万千孢子丝钻入白眉体内</p></figcaption></figure>
 
 方块表面布满经文般的神秘纹路，轻轻一摁，指尖传来一丝刺痛。
 
