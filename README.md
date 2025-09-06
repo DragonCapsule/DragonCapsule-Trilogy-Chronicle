@@ -4,7 +4,9 @@ cover: .gitbook/assets/1 (1).jpeg
 coverY: 0
 ---
 
-# 龙胶囊三部曲-前传编年史
+# I.龙胶囊三部曲-前传编年史
+
+## 三部曲の第一部.龙胶囊
 
 {% embed url="https://youtu.be/u-RB1jOhrT4" %}
 

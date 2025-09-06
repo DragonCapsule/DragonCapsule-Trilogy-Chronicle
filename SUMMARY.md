@@ -1,6 +1,6 @@
 # Table of contents
 
-* [龙胶囊三部曲-前传编年史](README.md)
+* [I.龙胶囊三部曲-前传编年史](README.md)
 
 ## 三部曲の第I部.龙胶囊 <a href="#di-yi-juan" id="di-yi-juan"></a>
 
