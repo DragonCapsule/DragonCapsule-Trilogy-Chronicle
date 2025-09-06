@@ -6,7 +6,7 @@ coverY: 0
 
 # I.龙胶囊三部曲-前传编年史
 
-## 三部曲の第一部.龙胶囊
+## I.三部曲の第一部.龙胶囊  (I.DragonCapsule)
 
 {% embed url="https://youtu.be/u-RB1jOhrT4" %}
 
